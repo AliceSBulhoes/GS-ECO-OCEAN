@@ -57,7 +57,7 @@ Você pode acessar o [código do projeto](radarLixo.cpp) ou a [simulação feita
 |  LED vermelho  |      1     |
 |  Sensor de distância ultrassônico HC-SR04  |      1     |
 |   LCD 16x2 com módulo I2C    |      1     |
-|      Cabo      |     12     |
+|      Cabo      |     14     |
 |    Cabo USB    |      1     |
 
 ## Montagem :wrench:
