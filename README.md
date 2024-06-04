@@ -36,7 +36,8 @@
 
 ## Acesso ao projeto :file_folder:
 
-Você pode acessar o [código do projeto](radarLixo.cpp) ou a [simulação feita no Wokwi](https://wokwi.com/projects/399244694477130753)
+Você pode acessar o [código do projeto](radarLixo.cpp) ou a [simulação feita no Wokwi](https://wokwi.com/projects/399244694477130753) <br>
+Para saber mais sobre o projeto, [acesse esse site](https://l-a-n-e.github.io/GS_Eco-Ocean/?)!
 
 ## Ferramenta utilizada :hammer_and_wrench:
 
