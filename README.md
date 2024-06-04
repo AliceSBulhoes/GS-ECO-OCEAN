@@ -36,7 +36,7 @@
 
 ## Acesso ao projeto :file_folder:
 
-Você pode acessar o [código do projeto](radarLixo.cpp) ou a [simulação feita no Wooki](https://wokwi.com/projects/399244694477130753)
+Você pode acessar o [código do projeto](radarLixo.cpp) ou a [simulação feita no Wokwi](https://wokwi.com/projects/399244694477130753)
 
 ## Ferramenta utilizada :hammer_and_wrench:
 
